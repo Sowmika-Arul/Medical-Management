@@ -1,9 +1,6 @@
 # Medical-Management
-
-<h3>Hospitals have the flexibility to add or remove branches as necessary. </h3>
-<h3>Moreover, hospitals can input comprehensive details regarding their doctors, including their specializations and locations.</h3>
-<h3>Patients, in turn, can access this portal to browse through doctor and hospital information based on specific locations and specializations. </h3>
-<h3>Additionally, pharmacy details in close proximity are readily available for patients' convenience.</h3> 
-<h3>Moreover, the system facilitates efficient communication between patients and healthcare providers, enabling timely consultations and follow-ups.</h3>
-<h3>By integrating modern technology with comprehensive functionalities, our system aims to enhance the efficiency of medical processes, improve patient outcomes, and elevate the overall quality of healthcare delivery.</h3>
+![Screenshot 2024-06-17 012754](https://github.com/Sowmika-Arul/Medical-Management/assets/171491614/3bf18009-5177-4eb8-a275-d01d74f7658a)
+![Screenshot 2024-06-17 012821](https://github.com/Sowmika-Arul/Medical-Management/assets/171491614/d932774e-d038-46c3-bcaf-680a884b7b9f)
+![Screenshot 2024-06-17 012847](https://github.com/Sowmika-Arul/Medical-Management/assets/171491614/7c1784fb-79ec-4bce-8ec8-d1c6ebbd8043)
+![Screenshot 2024-06-17 012922](https://github.com/Sowmika-Arul/Medical-Management/assets/171491614/81ab01f1-8d0b-43fc-84bd-dc5382776ac6)
 
