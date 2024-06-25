@@ -6,15 +6,15 @@ information they need, thus saving valuable time.
 
 ## Features
 
--**User Authentication and Authorization**: Flask provides customizable authentication
+- **User Authentication and Authorization**: Flask provides customizable authentication
 and authorization mechanisms, enabling secure user login and role-based access control
 tailored to the system's requirements.
   
--**URL Routing and View Handling**: Flask's routing system and view handling
+- **URL Routing and View Handling**: Flask's routing system and view handling
 mechanisms simplify the development of RESTful APIs and web pages, promoting code
 maintainability.
 
--**Template Rendering**: Flask's Jinja2 template engine facilitates dynamic HTML content
+- **Template Rendering**: Flask's Jinja2 template engine facilitates dynamic HTML content
 generation, allowing us to embed Python code within HTML templates for dynamic web
 pages.
 
